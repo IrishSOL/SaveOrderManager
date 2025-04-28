@@ -11,5 +11,5 @@ Known issues:
 - If your cart is filled already, it won't let you load. (This is because I couldn't figure out how to reset the cart and was tired 
 of trying, I'm sure if I took 5 or 6 hours out of my day I'd get it eventually but I feel like this QOL mod will eventually be obsolete 
 with future patches due to the dev eventually realizing this is an important feature that should be in base game)
-- Only works with the West 
+- Only works with the West (Adding the Central Gas Station and the phone shops soon).
 ---
